@@ -1,0 +1,9 @@
+os
+pandas
+json
+streamlit_option_menu
+streamlit
+pymysql
+sqlalchemy
+plotly
+time
