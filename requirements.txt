@@ -4,6 +4,5 @@ streamlit
 pymysql
 sqlalchemy
 plotly
-time
 numpy
 requests
