@@ -7,3 +7,4 @@ pymysql
 sqlalchemy
 plotly
 time
+numpy
