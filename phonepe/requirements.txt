@@ -8,3 +8,4 @@ sqlalchemy
 plotly
 time
 numpy
+requests
